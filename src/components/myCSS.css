@@ -1,0 +1,24 @@
+.first-element {
+    position: relative; /* Ensures child elements align inside */
+     /* overflow: hidden;  */
+    /* max-width: 400px; Adjust width */
+    /* height: auto; Adjust height as needed */
+ 
+  }
+  
+  .second-element {
+    position: absolute; /* Keeps it inside the first element */
+    max-width: 100%; /* Ensures it does not overflow */
+    left: 50%;
+    top: 50%;
+    transform: translate(0%, -70%)
+  }
+
+  .cube {
+    position : absolute;
+    right: 5%;
+    bottom: 5%;
+    max-height: 400px;
+    transform: translate(-70%, -50%); 
+   
+  }

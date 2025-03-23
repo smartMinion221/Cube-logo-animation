@@ -1,6 +1,6 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import CubeScene from "../CubeScene";
+import CubeScene from "./CubeScene";
 import "./myCSS.css";
 
 const HeroPage = () => {

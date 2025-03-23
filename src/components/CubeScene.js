@@ -92,7 +92,7 @@ const CubeScene = () => {
             parent.rotation.y += 0.0085;
             parent.rotation.z += 0.0085;
             models.current.forEach((modelData, index) => {
-                const { model, timer, delay, rotationDuration, rotationAngle, currentRotation } = modelData;
+                const { model, rotationDuration, rotationAngle } = modelData;
                 if (modelData.timer < modelData.delay) {
                     modelData.timer += 0.016; // Increment timer with a fixed delta time (approx. 60 FPS)
                 } else if (modelData.timer < modelData.delay + modelData.rotationDuration) {

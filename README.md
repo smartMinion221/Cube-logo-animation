@@ -17,10 +17,3 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-```
-Created by Leonid
-https://github.com/software-venus
-contractsmart9@gmail.com
-live:.cid.de3dfba9ef5b6a5
-```

@@ -20,6 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ```
 Created by Leonid
-http://github.com/software-venus
+https://github.com/software-venus
 contractsmart9@gmail.com
 ```
